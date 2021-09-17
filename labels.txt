@@ -1,0 +1,36 @@
+0	Normal	initial
+1	Normal	initial
+2	Normal	initial
+3	Normal	initial
+4	Normal	initial
+5	Benign	initial
+6	Benign	initial
+7	Benign	initial
+8	Benign	initial
+9	Benign	initial
+10	In situ	initial
+11	In situ	initial
+12	In situ	initial
+13	In situ	initial
+14	In situ	initial
+15	Invasive	initial
+16	Invasive	initial
+17	Invasive	initial
+18	Invasive	initial
+19	Invasive	initial
+20	Normal	extended
+21	Normal	extended
+22	Normal	extended
+23	Normal	extended
+24	Benign	extended
+25	Benign	extended
+26	Benign	extended
+27	Benign	extended
+28	In situ	extended
+29	In situ	extended
+30	In situ	extended
+31	In situ	extended
+32	Invasive	extended
+33	Invasive	extended
+34	Invasive	extended
+35	Invasive	extended
